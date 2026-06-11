@@ -1,0 +1,29 @@
+/* Definição de cores e fundo do site [11, 12] */
+body {
+    background-color: #f0fdf4; /* Verde claro sustentável */
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    color: #166534; /* Verde escuro para contraste */
+    margin: 0;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+/* Estilização do Canvas [13, 14] */
+canvas {
+    border: 5px solid #2e7d32;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    display: block;
+    margin: 0 auto;
+}
+
+#placar {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
